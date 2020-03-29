@@ -2,7 +2,7 @@
   "name": "monster-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dhavalmistry.github.io/react-app",
+  "homepage": "https://dhaval-dswtpl.github.io/react-app",
   "dependencies": {
     "cra-template": "1.0.3",
     "gh-pages": "^2.2.0",
